@@ -1,0 +1,5 @@
+Giphy API
+Ready to bring the engaging power of GIFs to your app through GIPHY?
+By integrating with GIPHY, the first and largest GIF search engine, you gain free access to our ever-growing content library of GIFs and Stickers — featuring the latest in entertainment, sports, and breaking news from GIPHY's official content partners.
+All of our content is searchable in over thirty languages and is available in various sizes so you get the highest quality images at the lowest file sizes. Plus, there's all the classic reaction GIFs you'll ever need.
+
